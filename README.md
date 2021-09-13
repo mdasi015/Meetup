@@ -37,8 +37,7 @@ _Você **pode** combiná-los_
 ---
 
 # Imagens
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://github.com/mdasi015/Meetup/blob/master/github.png)
 
 ---
 # Links

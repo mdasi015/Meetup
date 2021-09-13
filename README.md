@@ -93,7 +93,9 @@ class Saudacoes {
    }
 }
 ```
-
+# Nome de usuário @ menções
+Digitar um **@símbolo**, seguido por um nome de usuário, notificará essa pessoa para vir e ver o comentário.  
+Isso é chamado de **“@ menção ”**, porque você está mencionando o indivíduo. Você também pode **@** mencionar equipes dentro de uma organização.
 
  
  

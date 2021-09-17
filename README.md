@@ -59,6 +59,21 @@ Gostaria de maiores informações sobre o comando `window.document.querySelector
 
 ---
 
+# Trechos de código
+
+Olha só o programa que criei em **TypeScript**:
+```
+class Saudacoes {
+   saudacao: string;
+   constructor (mensagem: string) {
+      this.saudacao = mensagem;
+   }
+   Saudacoes() {
+       return "Olá, " + this.saudacao;
+   }
+}
+```
+---
 # Listas de tarefas
 
 - [x] @ menções, #refs, [links] (), ** formatação ** e <del> tags </del> suportadas
@@ -78,20 +93,6 @@ Ano | Curso | Professor | Aulas
 
 ---
 
-# Trechos de código
-
-Olha só o programa que criei em **TypeScript**:
-```
-class Saudacoes {
-   saudacao: string;
-   constructor (mensagem: string) {
-      this.saudacao = mensagem;
-   }
-   Saudacoes() {
-       return "Olá, " + this.saudacao;
-   }
-}
-```
 # Nome de usuário @ menções
 Digitar um **@símbolo**, seguido por um nome de usuário, notificará essa pessoa para vir e ver o comentário.  
 Isso é chamado de **“@ menção ”**, porque você está mencionando o indivíduo. Você também pode **@** mencionar equipes dentro de uma organização.
